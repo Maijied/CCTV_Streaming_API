@@ -1,0 +1,4 @@
+1. Create Index.js
+2. Run "npm init" and config
+3. Run "npm i express"
+4. run "npm install --save-dev nodemon"
