@@ -1,0 +1,28 @@
+{
+  "name": "cctv_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maijied/CCTV_Streaming_API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maijied/CCTV_Streaming_API/issues"
+  },
+  "homepage": "https://github.com/Maijied/CCTV_Streaming_API#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "ffmpeg": "^0.0.4",
+    "node-rtsp-stream": "^0.0.9"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
